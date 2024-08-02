@@ -1,2 +1,1 @@
 # platformer
-Platformer
